@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Jam Personi Me i Lumtur Ne Bot ob bo bo!nalu tash 🎉💝💖💝💓",
+        title: "Yay! Jam Personi Me i Lumtur Ne Bot ob bo bo!🎉💝💖💝💓",
         message: "hihihi tpres te sitnica!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
